@@ -18,7 +18,7 @@ Instead, I believe the best design approach is to build a system with lots of in
 
 ## Frontend
 
-* [blocks.js](https://github.com/Tixit/blocks.js) - Build modular web components and styles.
+* [Gem.js](https://github.com/Tixit/Gem.js) - A view library for build modular, composable web components and styles in pure javascript.
 * [websockets](https://developer.mozilla.org/en-US/docs/WebSockets) - Need to send the browser more data right now? Also, websockets can be use [beyond the browser](http://www.slideshare.net/cjmyers/web-sockets-are-not-just-for-web-browsers-26442068)
 * [bluebird promises](https://github.com/petkaantonov/bluebird) - Meticulously optimized future/promise library, that allows working asynchronously with familiar try-catch semantics. Bluebird also has a non-bloated set of powerful utilities, also meticulously optimized.
 * [observe](https://github.com/Tixit/observe) - React when your data objects change.
